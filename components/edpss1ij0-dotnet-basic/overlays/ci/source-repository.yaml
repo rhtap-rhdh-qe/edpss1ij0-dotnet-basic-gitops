@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: edpss1ij0-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/edpss1ij0-dotnet-basic
